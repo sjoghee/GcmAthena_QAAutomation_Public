@@ -1,0 +1,16 @@
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\AutoItX3.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\AutoItX3_x64.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\AutomatedTest_Athena.dll.config
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\AutomatedTest_Athena.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\AutomatedTest_Athena.pdb
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\Ionic.Zip.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\SikuliSharp.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\System.Drawing.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\WebDriver.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\WebDriver.Support.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\WebDriver.xml
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\bin\Debug\WebDriver.Support.xml
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\obj\Debug\AutomatedTest_Athena.csproj.ResolveComReference.cache
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\obj\Debug\AutomatedTest_Athena.dll
+C:\Athena\AutomatedTest_Athena\AutomatedTest_Athena\obj\Debug\AutomatedTest_Athena.pdb

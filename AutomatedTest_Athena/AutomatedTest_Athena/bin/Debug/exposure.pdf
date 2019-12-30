@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>Exposure Report Parameters</title>
+		<script src="ParamsScreen.js"></script>
+		<script src="../../javascript/AthenaUtil.js"></script>
+		<script src="../../javascript/AthenaString.js"></script>
+		<script src="../../javascript/AthenaDate.js"></script>
+		<script src="../../javascript/AthenaNum.js"></script>
+		<script src="../../javascript/AthenaZoom.js"></script>
+        <script src="/default.asp?class=settingsforweb" language="javascript" type="text/javascript"></script>
+		<script src="../javascript/ReportUtil.js"></script>
+        <script src="../javascript/ReportUtilSSRS.js" language="javascript" type="text/javascript"></script>
+		<script src="../javascript/config.js"></script>
+		<script FOR="window" EVENT="onload">
+			setTimeout('init()', 100)
+		</script>
+	</head>
+
+	<FRAMESET COLS="100%,0%">
+		<FRAME ID="selection" SRC="../../static/loading_please_wait.html" SCROLLING="auto" NORESIZE>
+		<FRAME ID="result" name="result" >
+	</FRAMESET>
+
+</html>
